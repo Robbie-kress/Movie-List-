@@ -1,0 +1,13 @@
+C:\Users\kress\source\repos\MovieInList\MovieInList\obj\Debug\netcoreapp3.1\MovieInList.csprojAssemblyReference.cache
+C:\Users\kress\source\repos\MovieInList\MovieInList\obj\Debug\netcoreapp3.1\MovieInList.AssemblyInfoInputs.cache
+C:\Users\kress\source\repos\MovieInList\MovieInList\obj\Debug\netcoreapp3.1\MovieInList.AssemblyInfo.cs
+C:\Users\kress\source\repos\MovieInList\MovieInList\obj\Debug\netcoreapp3.1\MovieInList.csproj.CoreCompileInputs.cache
+C:\Users\kress\source\repos\MovieInList\MovieInList\bin\Debug\netcoreapp3.1\MovieInList.exe
+C:\Users\kress\source\repos\MovieInList\MovieInList\bin\Debug\netcoreapp3.1\MovieInList.deps.json
+C:\Users\kress\source\repos\MovieInList\MovieInList\bin\Debug\netcoreapp3.1\MovieInList.runtimeconfig.json
+C:\Users\kress\source\repos\MovieInList\MovieInList\bin\Debug\netcoreapp3.1\MovieInList.runtimeconfig.dev.json
+C:\Users\kress\source\repos\MovieInList\MovieInList\bin\Debug\netcoreapp3.1\MovieInList.dll
+C:\Users\kress\source\repos\MovieInList\MovieInList\bin\Debug\netcoreapp3.1\MovieInList.pdb
+C:\Users\kress\source\repos\MovieInList\MovieInList\obj\Debug\netcoreapp3.1\MovieInList.dll
+C:\Users\kress\source\repos\MovieInList\MovieInList\obj\Debug\netcoreapp3.1\MovieInList.pdb
+C:\Users\kress\source\repos\MovieInList\MovieInList\obj\Debug\netcoreapp3.1\MovieInList.genruntimeconfig.cache
